@@ -1,0 +1,22 @@
+.todo-app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 20px;
+}
+.todo-lis-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.list-items {
+  display: flex;
+  flex-direction: column;
+}
